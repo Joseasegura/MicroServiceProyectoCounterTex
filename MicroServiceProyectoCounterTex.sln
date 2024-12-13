@@ -5,6 +5,13 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroServiceProyectoCounterTex", "MicroServiceProyectoCounterTex.csproj", "{FD100AF0-95E3-41BE-B3E8-E78955A990A7}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{53CFADCD-FF71-4F91-90FC-E480BECA510C}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Documents\SQL Server Management Studio\SQLScriptDBCounterTex.sql = ..\..\..\Documents\SQL Server Management Studio\SQLScriptDBCounterTex.sql
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentación", "Documentación", "{BB0E1193-252A-4CAC-9904-E5EEFF20DDA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
